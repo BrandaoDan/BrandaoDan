@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Daniel Brandão
 
-<!--
-**BrandaoDan/BrandaoDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Analista de Suporte | Futuro Desenvolvedor  
+📍 Salvador - BA | 💼 GitHub: [BrandaoDan](https://github.com/BrandaoDan)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandaoDan&layout=compact)
