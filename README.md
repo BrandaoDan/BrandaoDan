@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Daniel Brandão
 
 🎯 Analista de Suporte | Desenvolvedor em transição  
-📍 Salvador - BA | 📦 Fotógrafo | Empreendedor | Educador
+📍 Salvador - BA | 📦 Fotógrafo 
 
 ---
 
